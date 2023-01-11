@@ -1,2 +1,2 @@
-Twitter: Twitter-grey
+Twitter: Twitter black
 YouTube: YouTube-pink
